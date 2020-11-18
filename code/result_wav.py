@@ -9,7 +9,7 @@ def final_result(filename):
     file_name = filename
     #write_name = '../cut_wave/00eead73-a2c2-480d-b2ee-d79b1a526871_exam.wav'
     #cutting_wave(file_name, write_name)
-    model = load_model('/home/pi/model/model_exam.h5')
+    model = load_model('../model/model_exam.h5')
     image = classify_cough(file_name, model)[0]
 
     

@@ -2,11 +2,9 @@ import time; import random; import datetime
 import warnings
 warnings.filterwarnings("ignore")
 
-print('d')
 
 import os
 
-print('d')
 import numpy as np
 import sys
 import matplotlib.pyplot as plt

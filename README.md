@@ -21,7 +21,7 @@ CoughCOVID is a deep learning-based project designed to predict COVID-19 infecti
 - Convert WAV files to STFT or Mel spectrogram images.
 - Apply normalization and augmentation techniques to enhance model robustness.
 
-[]
+![data](figure/COVID.png)
 
 ### Model Training
 - Train a CNN model on spectrogram data to classify cough sounds.
